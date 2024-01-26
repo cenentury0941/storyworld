@@ -1,6 +1,6 @@
 import OpenAI from "openai";
 
-let openAIKey = "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";
+let openAIKey = "";
 const openai = new OpenAI({
   apiKey: openAIKey,
   dangerouslyAllowBrowser: true,
