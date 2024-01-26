@@ -12,7 +12,7 @@ We're thrilled to share the story of our journey in this hackathon! Check out th
 
 ### DEMO VIDEO: Click below! or go to : https://www.youtube.com/watch?v=Wgaq65CSULQ
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wgaq65CSULQ/0.jpg)](https://www.youtube.com/watch?v=Wgaq65CSULQ)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/cenentury0941/Pictures/main/play.png)](https://www.youtube.com/watch?v=Wgaq65CSULQ)
 
 ### Hosted Link :
 
